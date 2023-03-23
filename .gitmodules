@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bedr"]
+	path = bedr
+	url = https://github.com/cran/bedr
+	shallow = true
+	registered = true
+[submodule "CancerEvolutionVisualization"]
+	path = CancerEvolutionVisualization
+	url = https://github.com/cran/CancerEvolutionVisualization
+	shallow = true
+	registered = true
+[submodule "ISOpureR"]
+	path = ISOpureR
+	url = https://github.com/cran/ISOpureR
+	shallow = true
+	registered = true
+[submodule "iSubGen"]
+	path = iSubGen
+	url = https://github.com/cran/iSubGen
+	shallow = true
+	registered = true
+[submodule "SeqKat"]
+	path = SeqKat
+	url = https://github.com/cran/SeqKat
+	shallow = true
+	registered = true
+[submodule "VennDiagram"]
+	path = VennDiagram
+	url = https://github.com/cran/VennDiagram
+	shallow = true
+	registered = true
