@@ -5,6 +5,9 @@
 [submodule "ISOpureR"]
 	path = ISOpureR
 	url = https://github.com/cran/ISOpureR
+[submodule "OmicsQC"]
+	path = OmicsQC
+	url = https://github.com/cran/OmicsQC
 [submodule "SeqKat"]
 	path = SeqKat
 	url = https://github.com/cran/SeqKat
