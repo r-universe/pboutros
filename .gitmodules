@@ -20,9 +20,6 @@
 [submodule "VennDiagram"]
 	path = VennDiagram
 	url = https://github.com/cran/VennDiagram
-[submodule "bedr"]
-	path = bedr
-	url = https://github.com/cran/bedr
 [submodule "iSubGen"]
 	path = iSubGen
 	url = https://github.com/cran/iSubGen
