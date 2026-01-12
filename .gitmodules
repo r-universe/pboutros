@@ -17,9 +17,6 @@
 [submodule "SeqKat"]
 	path = SeqKat
 	url = https://github.com/cran/SeqKat
-[submodule "VennDiagram"]
-	path = VennDiagram
-	url = https://github.com/cran/VennDiagram
 [submodule "iSubGen"]
 	path = iSubGen
 	url = https://github.com/cran/iSubGen
