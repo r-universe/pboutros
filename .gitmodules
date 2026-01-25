@@ -14,6 +14,3 @@
 [submodule "OutSeekR"]
 	path = OutSeekR
 	url = https://github.com/cran/OutSeekR
-[submodule "iSubGen"]
-	path = iSubGen
-	url = https://github.com/cran/iSubGen
