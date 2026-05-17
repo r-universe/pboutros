@@ -5,9 +5,6 @@
 [submodule "ApplyPolygenicScore"]
 	path = ApplyPolygenicScore
 	url = https://github.com/cran/ApplyPolygenicScore
-[submodule "ISOpureR"]
-	path = ISOpureR
-	url = https://github.com/cran/ISOpureR
 [submodule "OmicsQC"]
 	path = OmicsQC
 	url = https://github.com/cran/OmicsQC
